@@ -1,4 +1,4 @@
-package com.zaher.cleancodewithmvvm.ui.theme
+package com.zaher.cleancodewithmvvm.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

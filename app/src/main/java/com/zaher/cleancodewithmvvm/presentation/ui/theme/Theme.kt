@@ -1,6 +1,5 @@
-package com.zaher.cleancodewithmvvm.ui.theme
+package com.zaher.cleancodewithmvvm.presentation.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme

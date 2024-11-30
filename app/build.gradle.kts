@@ -68,6 +68,10 @@ dependencies {
     implementation(libs.hilt.android)
     ksp(libs.hilt.compiler)
 
+    // Lifecycle ViewModel and Hilt-Compose integration
+    implementation(libs.hilt.navigation.compose)
+    implementation(libs.lifecycle.viewmodel.compose)
+
     // Testing
     testImplementation(libs.junit)
     testImplementation(libs.coroutines.test)
